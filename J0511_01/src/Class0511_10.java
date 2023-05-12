@@ -48,8 +48,6 @@ public class Class0511_10 {
 		double[] avg = new double[5];
 		Scanner scan = new Scanner(System.in);
 		
-		
-		
 		for(int i=0;i<name.length;i++) {
 			System.out.println("이름을 입력하세용");
 			name[i] = scan.next();
