@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Class0512_08 {
 
 	public static void main(String[] args) {
+		
 		Scanner scan = new Scanner(System.in);
 		// 국어 영어 수학 합계 / 5명 점수
 
