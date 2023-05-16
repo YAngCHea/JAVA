@@ -115,7 +115,7 @@ public class Class0515_09 {
 						case 2 : //영어 성적
 						case 3 : //수학 성적
 						}//switch
-					}//if
+					}//if                      => 여기서 else를 쓰면 i가 끝까지 돌때까지 계속 없다고 나온다
 				}//for
 				
 				//check
